@@ -1,3 +1,4 @@
+name: Python Project CI/CD
 on:
   push:
     branches: [ main ]  # Запускается при пуше в ветку main
