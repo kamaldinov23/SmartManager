@@ -21,3 +21,6 @@ def get_user_age():
 
 if __name__ == "__main__":
     logging.info("Программа ишке кирди.")
+
+
+print("adadasdadadasd")
