@@ -19,6 +19,6 @@ jobs:
         python-version: '3.9'
 
     - name: Установка зависимостей
-      run: |
+      run: 
         python -m pip install --upgrade pip
         # unittest и logging — стандартные библиотеки, установка не требуется
