@@ -1,6 +1,5 @@
 import logging
 
-# Логду жөндөө
 logging.basicConfig(
     filename='app.log',
     level=logging.INFO,
